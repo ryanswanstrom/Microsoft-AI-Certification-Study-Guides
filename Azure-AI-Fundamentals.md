@@ -39,3 +39,4 @@ Allows AI to "see" the world
 * Facial Recognition
 * Object Character Recognition (OCR)
 
+Official [Microsoft AI-900 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900)
